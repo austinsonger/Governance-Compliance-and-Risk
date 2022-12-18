@@ -41,4 +41,6 @@
 ## Customer Security
 
 * [What is Customer Security](customer-security/what-is-customer-security.md)
-* [Security Questionnaires](customer-security/security-questionnaires.md)
+* [Security Questionnaires](customer-security/security-questionnaires/README.md)
+  * [Security Governance Questions](customer-security/security-questionnaires/security-governance-questions/README.md)
+    * [Does your organization conduct an annual independent information security review and act upon the fi](customer-security/security-questionnaires/security-governance-questions/does-your-organization-conduct-an-annual-independent-information-security-review-and-act-upon-the-fi.md)
