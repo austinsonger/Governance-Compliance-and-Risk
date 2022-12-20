@@ -33,8 +33,11 @@
   * [FedRAMP](compliance/frameworks/fedramp.md)
   * [HITRUST](compliance/frameworks/hitrust.md)
 * [Security Controls](compliance/security-controls.md)
-* [Internal Auditing](compliance/internal-auditing/README.md)
-  * [Gap Assessment/Analysis](compliance/internal-auditing/gap-assessment-analysis.md)
+* [Auditing](compliance/auditing/README.md)
+  * [Gap Assessment/Analysis](compliance/auditing/gap-assessment-analysis.md)
+  * [Techniques](compliance/auditing/techniques/README.md)
+    * [Auditing Cybersecurity Programs](compliance/auditing/techniques/auditing-cybersecurity-programs.md)
+    * [Auditing Web Servers and  Web Applications](compliance/auditing/techniques/auditing-web-servers-and-web-applications.md)
 
 ## Risk
 

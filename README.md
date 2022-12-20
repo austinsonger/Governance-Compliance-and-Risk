@@ -14,7 +14,7 @@
 
 * [Frameworks](compliance/frameworks/)
 * [Security Controls](compliance/security-controls.md)
-* [Internal Auditing](compliance/internal-auditing/)
+* [Internal Auditing](compliance/auditing/)
 
 ### Risk
 
