@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/Asset Management.png
+coverY: 0
+---
+
 # Asset Management (AST)
 
 ## Purpose <a href="#purpose" id="purpose"></a>
