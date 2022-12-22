@@ -36,6 +36,7 @@
   * [Asset Management (AST)](compliance/security-controls/asset-management-ast.md)
   * [Business Continuity and Disaster Recovery (BCD)](compliance/security-controls/business-continuity-and-disaster-recovery-bcd.md)
   * [Change Management (CHG)](compliance/security-controls/change-management-chg.md)
+  * [Compliance (CPL)](compliance/security-controls/compliance-cpl.md)
 * [Auditing](compliance/internal-auditing/README.md)
   * [Gap Assessment/Analysis](compliance/internal-auditing/gap-assessment-analysis.md)
   * [Techniques](compliance/auditing/techniques/README.md)
