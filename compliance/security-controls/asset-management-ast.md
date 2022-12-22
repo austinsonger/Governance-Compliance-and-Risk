@@ -11,7 +11,7 @@ Maintains an inventory of systems and technology assets from purchase through di
 
 ## Scope <a href="#scope" id="scope"></a>
 
-Network Diagrams & Data Flow Diagrams (DFDs)This control applies to all endpoint workstations as well as virtual assets within our hosting providers.
+This control applies to all endpoint workstations as well as virtual assets within our hosting providers.
 
 ## Ownership <a href="#ownership" id="ownership"></a>
 
